@@ -20,7 +20,7 @@ int main()
 		int pin();
 		{
 			int Pin;
-			cout << "What is the pin number?";
+			cout << "What is the pin number?""\n";
 			Pin = inputNumber();
 			bool(PinTrue) = (Pin == 1234);
 
